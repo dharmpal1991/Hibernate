@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/home/namostute/Downloads/hibernatejar/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="/home/namostute/Downloads/hibernatejar/asm.jar"/>
+	<classpathentry kind="lib" path="/home/namostute/Downloads/hibernatejar/asm-attrs.jar"/>
+	<classpathentry kind="lib" path="/home/namostute/Downloads/hibernatejar/c3p0-0.9.1.jar"/>
+	<classpathentry kind="lib" path="/home/namostute/Downloads/hibernatejar/cglib-2.1.3.jar"/>
+	<classpathentry kind="lib" path="/home/namostute/Downloads/hibernatejar/commons-collections-2.1.1.jar"/>
+	<classpathentry kind="lib" path="/home/namostute/Downloads/hibernatejar/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="/home/namostute/Downloads/hibernatejar/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="/home/namostute/Downloads/hibernatejar/ehcache-1.2.3.jar"/>
+	<classpathentry kind="lib" path="/home/namostute/Downloads/hibernatejar/ejb3-persistence.jar"/>
+	<classpathentry kind="lib" path="/home/namostute/Downloads/hibernatejar/hibernate3.jar"/>
+	<classpathentry kind="lib" path="/home/namostute/Downloads/hibernatejar/hibernate-annotations.jar"/>
+	<classpathentry kind="lib" path="/home/namostute/Downloads/hibernatejar/hibernate-commons-annotations.jar"/>
+	<classpathentry kind="lib" path="/home/namostute/Downloads/hibernatejar/hibernate-validator.jar"/>
+	<classpathentry kind="lib" path="/home/namostute/Downloads/hibernatejar/jdbc2_0-stdext.jar"/>
+	<classpathentry kind="lib" path="/home/namostute/Downloads/hibernatejar/jta.jar"/>
+	<classpathentry kind="lib" path="/home/namostute/Downloads/hibernatejar/log4j-1.2.11.jar"/>
+	<classpathentry kind="lib" path="/home/namostute/Downloads/hibernatejar/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="/home/namostute/Downloads/hibernatejar/xerces-2.6.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
